@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="country_prompt">CHỌN BÀI HỌC</string>
+
+    <string-array name="work_arrays">
+        <item>CÁC SỐ NHỎ HƠN 10</item>
+        <item>CÁC SỐ LỚN HƠN 10</item>
+        <item>BÀI TOÁN TỔNG HỢP</item>
+
+    </string-array>
+</resources>
